@@ -6,4 +6,4 @@ def factorial(x):
         total = total * 1
     return total
 
-print(factorial(16))
+print(factorial(5))
